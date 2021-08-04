@@ -632,3 +632,4 @@ keysWidgets.append(btnInfoVigener)#7
 btnInfoDragon = Button(frame2, width = 10, text='Info', command = infoDragon,
                        bg=frame_bg, fg=label_fg )
 keysWidgets.append(btnInfoDragon)#8
+root.mainloop()
